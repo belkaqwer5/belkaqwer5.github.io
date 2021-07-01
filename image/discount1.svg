@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="200mm"
+   viewBox="0 0 150 200"
+   version="1.1"
+   id="svg44377"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="discount1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44379"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72070006"
+     inkscape:cx="396.83638"
+     inkscape:cy="339.25348"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs44374" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect44507"
+       width="150.88628"
+       height="201.54883"
+       x="0"
+       y="-0.36711988" />
+    <ellipse
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path44597"
+       cx="75.443138"
+       cy="54.884422"
+       rx="46.073547"
+       ry="25.881952" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="76.906921"
+       y="48.092709"
+       id="text47527"><tspan
+         sodipodi:role="line"
+         id="tspan47525"
+         style="font-size:9px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="76.906921"
+         y="48.092709">Приключения</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="76.906921"
+         y="59.342709"
+         id="tspan49909">Шерлока Холмса</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="28.06316"
+       y="100.95798"
+       id="text53115"><tspan
+         sodipodi:role="line"
+         id="tspan53113"
+         style="font-size:10px;stroke-width:0.264583"
+         x="28.06316"
+         y="100.95798">Артур Конан Дойл</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#ff0000"
+       x="29.002472"
+       y="129.59332"
+       id="text59391"><tspan
+         sodipodi:role="line"
+         id="tspan59389"
+         style="stroke-width:0.264583;fill:#ff0000"
+         x="29.002472"
+         y="129.59332">Скидка 20%!</tspan></text>
+  </g>
+</svg>

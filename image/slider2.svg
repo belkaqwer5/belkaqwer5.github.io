@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="327.5mm"
+   height="200mm"
+   viewBox="0 0 327.5 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="slider2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="605.78286"
+     inkscape:cy="346.06527"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1051.013"
+       y="180.79043"
+       width="617.9255"
+       height="116.02968"
+       id="rect69550" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="168.68015"
+       y="22.489182"
+       id="text57081"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="168.68015"
+         y="22.489182"
+         id="tspan83584">1. Выберите книгу</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="168.68015"
+         y="54.239182"
+         id="tspan1677">на нашем сайте</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+       x="162.89175"
+       y="105.66346"
+       id="text62521"><tspan
+         sodipodi:role="line"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#d38d5f;stroke-width:0.264583"
+         x="162.89175"
+         y="105.66346"
+         id="tspan87451">У нас есть много разных книг,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#d38d5f;stroke-width:0.264583"
+         x="162.89175"
+         y="128.16345"
+         id="tspan4628">на любого читателя,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#d38d5f;stroke-width:0.264583"
+         x="162.89175"
+         y="150.66345"
+         id="tspan4630">любого жанра и размера</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text69548"
+       style="line-height:1.25;font-family:sans-serif;font-size:30.23622047px;white-space:pre;shape-inside:url(#rect69550)" />
+  </g>
+</svg>
